@@ -34,6 +34,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+THEME = '/Users/bertilipsen/anaconda3/envs/blog-env/lib/python3.5/site-packages/pelican/themes/pelican-themes/elegant'
+
 MARKUP = ('md', 'ipynb')
 
 PLUGIN_PATHS = ['./plugins']
